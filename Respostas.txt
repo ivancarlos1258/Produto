@@ -1,0 +1,53 @@
+  Escreva uma query que otimize a seguinte consulta para grandes volumes de dados.
+ Query original:
+ SELECT * FROM Orders
+ WHERE OrderDate BETWEEN '2023-01-01' AND '2023-12-31'
+ ORDER BY CustomerID
+ 
+ 
+ Para otimizar primeiro passo seria não usar o * , colocar as colunas que realmente vão ser usadas
+ SELECT CustomerID FROM Orders
+ WHERE OrderDate BETWEEN '2023-01-01' AND '2023-12-31'
+ ORDER BY CustomerID
+ 
+ Criaria indice na tabela da coluna OrderDate
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Qual é a diferença entre INNER JOIN, LEFT JOIN e CROSS JOIN?
+ 
+ Inner join - O retorno da query com esse comando, vai exibir os dados relacionados entre as tabela, senão tiver nada relacionado, nao vem nada
+ 
+ Left join - O retorno da query com esse comando, vai exibir os dador relacionados entre as tabelas, senão tiver relacionamento os dados da segunda tabela
+ vão retornar dados nulos
+ 
+ CROSS JOIN - O retorno da querycom esse comando, vai exibir o relacionamento de cada linha da primeira tabela com todas as linhas da segunda tabela
+ 
+ 
+ 
+ Explique a diferença entre os modos de carregamento Lazy, Eager e Explicit no
+ Entity Framework
+ 
+ 
+ Lazy - Os dados são carragados quando tenta acessar eles.
+ Eager - Os a dados relacionados são carregados todos juntos, usando na consulta o metodo Include
+ Explicit - Os dados relacionados são carregados manualmente
+ 
+ 
+ Descreva um cenário onde o uso de AsNoTracking() seria necessário e explique por
+ que?
+ 
+ Uma consulta em tabelas nuito grandes de de exibiçoes tambem muito gandes, os AsNoTracking vai ser usado para garantir que vc só quer consultar esses
+ dados, não a interesse em manipular os dados do retorno. Isso melhora a performance da consulta
+ 
+ 
+ 
+  Explique a diferença entre arquitetura monolítica e arquitetura de microsserviços
+  
+  Monolitica -  O codigo e todas as funcionalidades estão escrito em uma unica aplicação.
+  Microsserviços -  Existe a quebra de aplicaçoes com funcionalidades especificas. Geando assim serviços independentes para cada caso.
+  
