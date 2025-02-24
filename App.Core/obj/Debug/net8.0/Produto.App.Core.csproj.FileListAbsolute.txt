@@ -1,0 +1,15 @@
+C:\Ivan\produtos.api.app\Produtos.App.Core\bin\Debug\net8.0\Produto.App.Core.deps.json
+C:\Ivan\produtos.api.app\Produtos.App.Core\bin\Debug\net8.0\Produto.App.Core.runtimeconfig.json
+C:\Ivan\produtos.api.app\Produtos.App.Core\bin\Debug\net8.0\Produto.App.Core.dll
+C:\Ivan\produtos.api.app\Produtos.App.Core\bin\Debug\net8.0\Produto.App.Core.pdb
+C:\Ivan\produtos.api.app\Produtos.App.Core\obj\Debug\net8.0\Produto.App.Core.csproj.AssemblyReference.cache
+C:\Ivan\produtos.api.app\Produtos.App.Core\obj\Debug\net8.0\Produto.App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ivan\produtos.api.app\Produtos.App.Core\obj\Debug\net8.0\Produto.App.Core.AssemblyInfoInputs.cache
+C:\Ivan\produtos.api.app\Produtos.App.Core\obj\Debug\net8.0\Produto.App.Core.AssemblyInfo.cs
+C:\Ivan\produtos.api.app\Produtos.App.Core\obj\Debug\net8.0\Produto.App.Core.csproj.CoreCompileInputs.cache
+C:\Ivan\produtos.api.app\Produtos.App.Core\obj\Debug\net8.0\Produto.App.Core.sourcelink.json
+C:\Ivan\produtos.api.app\Produtos.App.Core\obj\Debug\net8.0\Produto.App.Core.dll
+C:\Ivan\produtos.api.app\Produtos.App.Core\obj\Debug\net8.0\refint\Produto.App.Core.dll
+C:\Ivan\produtos.api.app\Produtos.App.Core\obj\Debug\net8.0\Produto.App.Core.pdb
+C:\Ivan\produtos.api.app\Produtos.App.Core\obj\Debug\net8.0\Produto.App.Core.genruntimeconfig.cache
+C:\Ivan\produtos.api.app\Produtos.App.Core\obj\Debug\net8.0\ref\Produto.App.Core.dll

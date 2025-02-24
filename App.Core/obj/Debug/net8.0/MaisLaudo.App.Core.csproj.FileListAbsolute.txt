@@ -1,0 +1,15 @@
+C:\MaisLaudo\maislaudo.api.app\MaisLaudo.App.Core\bin\Debug\net8.0\MaisLaudo.App.Core.deps.json
+C:\MaisLaudo\maislaudo.api.app\MaisLaudo.App.Core\bin\Debug\net8.0\MaisLaudo.App.Core.dll
+C:\MaisLaudo\maislaudo.api.app\MaisLaudo.App.Core\bin\Debug\net8.0\MaisLaudo.App.Core.pdb
+C:\MaisLaudo\maislaudo.api.app\MaisLaudo.App.Core\obj\Debug\net8.0\MaisLaudo.App.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\MaisLaudo\maislaudo.api.app\MaisLaudo.App.Core\obj\Debug\net8.0\MaisLaudo.App.Core.AssemblyInfoInputs.cache
+C:\MaisLaudo\maislaudo.api.app\MaisLaudo.App.Core\obj\Debug\net8.0\MaisLaudo.App.Core.AssemblyInfo.cs
+C:\MaisLaudo\maislaudo.api.app\MaisLaudo.App.Core\obj\Debug\net8.0\MaisLaudo.App.Core.csproj.CoreCompileInputs.cache
+C:\MaisLaudo\maislaudo.api.app\MaisLaudo.App.Core\obj\Debug\net8.0\MaisLaudo.App.Core.sourcelink.json
+C:\MaisLaudo\maislaudo.api.app\MaisLaudo.App.Core\obj\Debug\net8.0\MaisLaudo.App.Core.dll
+C:\MaisLaudo\maislaudo.api.app\MaisLaudo.App.Core\obj\Debug\net8.0\refint\MaisLaudo.App.Core.dll
+C:\MaisLaudo\maislaudo.api.app\MaisLaudo.App.Core\obj\Debug\net8.0\MaisLaudo.App.Core.pdb
+C:\MaisLaudo\maislaudo.api.app\MaisLaudo.App.Core\obj\Debug\net8.0\ref\MaisLaudo.App.Core.dll
+C:\MaisLaudo\maislaudo.api.app\MaisLaudo.App.Core\bin\Debug\net8.0\MaisLaudo.App.Core.runtimeconfig.json
+C:\MaisLaudo\maislaudo.api.app\MaisLaudo.App.Core\obj\Debug\net8.0\MaisLaudo.App.Core.csproj.AssemblyReference.cache
+C:\MaisLaudo\maislaudo.api.app\MaisLaudo.App.Core\obj\Debug\net8.0\MaisLaudo.App.Core.genruntimeconfig.cache

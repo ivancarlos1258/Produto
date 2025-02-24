@@ -1,0 +1,6 @@
+C:\Ivan\produtos.api.app\Produtos.App.Infra\obj\Debug\net8.0\Produto.App.Infra.csproj.AssemblyReference.cache
+C:\Ivan\produtos.api.app\Produtos.App.Infra\obj\Debug\net8.0\Produto.App.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ivan\produtos.api.app\Produtos.App.Infra\obj\Debug\net8.0\Produto.App.Infra.AssemblyInfoInputs.cache
+C:\Ivan\produtos.api.app\Produtos.App.Infra\obj\Debug\net8.0\Produto.App.Infra.AssemblyInfo.cs
+C:\Ivan\produtos.api.app\Produtos.App.Infra\obj\Debug\net8.0\Produto.App.Infra.csproj.CoreCompileInputs.cache
+C:\Ivan\produtos.api.app\Produtos.App.Infra\obj\Debug\net8.0\Produto.App.Infra.sourcelink.json
